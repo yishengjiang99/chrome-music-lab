@@ -32,7 +32,7 @@ window.requestAnimFrame = (function(){
 })();
 
 // -~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
-var spec3D = require('./ui/spectrogram');
+var spec3D = require('./UI/spectrogram');
 // -~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
 
 $(function(){
